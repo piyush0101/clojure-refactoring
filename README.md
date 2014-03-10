@@ -1,13 +1,13 @@
 # refactoring
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure refactoring plugin for LightTable
 
 ## Usage
 
-FIXME
+
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Piyush Srivastava
 
 Distributed under the Eclipse Public License, the same as Clojure.

@@ -1,5 +1,5 @@
 {:name "ClojureRefactoring"
  :author "Piyush Srivastava"
- :source "https://github.com/LightTable/LightTable-Declassifier"
+ :source "https://github.com/piyush0101/clojure-refactoring"
  :desc "Refactorings for clojure(script)"
  :behaviors "refactoring.behaviors"}
